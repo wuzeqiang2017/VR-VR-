@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:videowidget">
+    <CLASSES>
+      <root url="jar://D:/software/gradle-3.3/caches/transforms-1/files-1.1/videowidget.aar/04c20833b11dcca0175ac8833a85005a/jars/classes.jar!/" />
+      <root url="file://D:/software/gradle-3.3/caches/transforms-1/files-1.1/videowidget.aar/04c20833b11dcca0175ac8833a85005a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
